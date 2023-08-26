@@ -1,2 +1,2 @@
 # water-jug-problem
- using AI in java (Jfram) to solve that classic problem
+ in java (JFrame) using AI to solve that classic problem
